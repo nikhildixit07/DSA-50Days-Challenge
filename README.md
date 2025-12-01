@@ -59,12 +59,12 @@ Day18 Q3 LeetCode 200.cpp
 
 ---
 
-## 🎯 Objective
+## 🎯 Goals of the Challenge
 
-✔ Improve problem-solving skills  
-✔ Learn & master important DSA topics  
-✔ Build consistency (everyday coding habit)  
-✔ Strengthen logic for interviews & contests  
+✔ Solve DSA consistently for 50 continuous days
+✔ Strengthen problem-solving & logic thinking
+✔ Learn key patterns used in interviews
+✔ Build multi-language confidence (Python + C++ + Java)
 
 ---
 
@@ -72,9 +72,9 @@ Day18 Q3 LeetCode 200.cpp
 
 | Phase | Concepts Covered |
 |------|------------------|
-| Day 01-10 | Linked Lists, Math & Basic Array Logic |
+| Day 01-10 | Linked Lists, Math Logic, Basic Arrays |
 | Day 11-20 | Linked Lists, Math, Stack Problems, Arrays, Greedy, GCD |
-| Day 21-30 | Trees, Stacks, Binary Search, Arrays, DP, Parentheses Problems |
+| Day 21-30 | Trees, Stacks, Binary Search, Arrays, DP, Parentheses |
 | Day 31-40 | Binary Trees, BFS/DFS, Strings, BST, Stack-Based Reductions, Two-Pointer Logic |
 | Day 41-50 | BST, Strings, Graphs, Bit Manipulation, Sliding Window, Prime & GCD Math |
 
