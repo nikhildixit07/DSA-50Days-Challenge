@@ -9,7 +9,7 @@ All solutions are organized day-wise in 10-day grouped folders for neat navigati
 
 Each solution file in this repository follows the naming format:
 
-DayDD QP LeetCode ProblemID.ext
+```DayDD QP LeetCode ProblemID.ext```
 
 ### Breakdown of the format:
 
@@ -53,7 +53,6 @@ Day05 Q1 LeetCode 136.cpp
 Day05 Q2 LeetCode 349.py
 Day12 Q1 LeetCode 121.py
 Day18 Q3 LeetCode 200.cpp
-...
 
 ````
 
