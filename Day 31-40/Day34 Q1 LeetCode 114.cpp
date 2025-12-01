@@ -13,17 +13,14 @@ public:
             TreeNode* curr = st.top();
             st.pop();
 
-            // If there's a previous node, point its right to current
             if (prev) {
-                prev->left = nullptr;    // Left should always be null
+                prev->left = nullptr;    
                 prev->right = curr;
             }
 
-            // Since stack is LIFO, push right first so left is processed first
             if (curr->right) st.push(curr->right);
             if (curr->left) st.push(curr->left);
 
-            // Move to the next node
             prev = curr;
         }
     }
